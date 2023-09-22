@@ -14,3 +14,4 @@ Para a correta análise dos componentes aqui inseridos, seguem detalhados cada u
 * Arquivo "main.tex", arquivo LaTeX da apresentação PDF;
 * Arquivo "Apresentação_Trabalho02_LucianoStork", apresentação PDF do trabalho prático      
 * Arquivo "trabalho02.bib", com informações pertinentes sobre os detalhes da apresentação.
+* Arquivo "LICENSE.txt", especificando as lincenças legais do projeto.
